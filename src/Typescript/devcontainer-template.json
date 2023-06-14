@@ -1,0 +1,10 @@
+{
+    "id": "Typescript",
+    "version": "1.0.0",
+    "name": "Typescript Template",
+    "description": "A DevContainer template for a Typescript environment",
+    "documentationURL": "https://github.com/Luk4h/DevContainers",
+    "platforms": [
+        "Any"
+    ]
+}
